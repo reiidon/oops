@@ -37,7 +37,7 @@ obj2 = Employee("sankeerth", 80000)
 obj3 = Employee("vishal", 790000)
 
 
-
 obj1.show_details()
 obj2.show_details()
 obj3.show_details()
+
