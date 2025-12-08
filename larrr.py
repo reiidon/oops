@@ -4,4 +4,5 @@ for i in lst:
     if i<1:
         
         print(num)
-    
+    class Developer(Employee):
+ 
